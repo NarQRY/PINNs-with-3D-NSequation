@@ -10,7 +10,7 @@ Dissanayake, M.W.M.G. and Phan-Thien, N. (1994), Neural-network-based approximat
 
 Maziar Raissi et al. ,Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations.Science367,1026-1030(2020).[DOI:10.1126/science.aaw4741](https://doi.org/10.1126/science.aaw4741)
 
-Xiaowei Jin, Shengze Cai, Hui Li, George Em Karniadakis, NSFnets (Navier-Stokes flow nets): Physics-informed neural networks for the incompressible Navier-Stokes equations, Journal of Computational Physics, Volume 426, 2021, 109951, ISSN 0021-9991, https://doi.org/10.1016/j.jcp.2020.109951.
+M. Raissi, P. Perdikaris, G.E. Karniadakis, Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, Journal of Computational Physics, Volume 378, 2019, Pages 686-707, ISSN 0021-9991, https://doi.org/10.1016/j.jcp.2018.10.045.
 
 ## Information of input and output
 
